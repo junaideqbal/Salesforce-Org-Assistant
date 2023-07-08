@@ -23,5 +23,5 @@ Currently, extension supports the following:
  - [ ] Updates the Standard favicon based on Org
  - [ ] Apex code generator
  
-You can suggest new features [here](https://github.com/junaideqbal/salesforce-admin-essential-tools/issues)
+You can suggest new features [here](https://github.com/junaideqbal/Salesforce-Org-Assistant/issues)
  
